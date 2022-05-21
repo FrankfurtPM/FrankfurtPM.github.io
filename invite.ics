@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220607T170000Z
+DTEND:20220607T200000Z
+DTSTAMP:20220517T191744Z
+ORGANIZER;CN=Frankfurt PM:mailto:63nbat07agq7lmlrqbren3o2h8@group.calendar.
+ google.com
+UID:65ijed9p68o6ab9jc8ojib9kc5imabb2c8sjebb364rm2p9jcdhjcoj16k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Wieland Pusch;X-NUM-GUESTS=0:mailto:wieland@wielandpusch.de
+X-MICROSOFT-CDO-OWNERAPPTID:1191378468
+CREATED:20220514T162652Z
+DESCRIPTION:Über Perl\, GPW2023 und alles Mögliche reden.\n\n-::~:~::~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\n
+ Diesen Abschnitt der Beschreibung nicht bearbeiten.\n\nZeigen Sie Ihren Ter
+ min unter https://calendar.google.com/calendar/event?action=VIEW&eid=NjVpam
+ VkOXA2OG82YWI5amM4b2ppYjlrYzVpbWFiYjJjOHNqZWJiMzY0cm0ycDlqY2RoamNvajE2ayB3a
+ WVsYW5kQHdpZWxhbmRwdXNjaC5kZQ&tok=NTIjNjNuYmF0MDdhZ3E3bG1scnFicmVuM28yaDhAZ
+ 3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbWZiMTVmNjEzN2ZjOGY5ZjJmOTAyODJiNzMwZTdmZmMw
+ MzUwZDY3Njg&ctz=Europe%2FBerlin&hl=de&es=0 an.\n-::~:~::~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220517T191743Z
+LOCATION:Maximilians\n069 24445969\nhttps://maps.app.goo.gl/3DQzTMJCMCAx1Je
+ P9
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Frankfurt PM
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
